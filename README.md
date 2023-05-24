@@ -1,6 +1,6 @@
 # YOLOv3 Inference from scratch
 
-trained models is not included in this repository
+trained models not included in this repository
 
 ## Examples:
 
